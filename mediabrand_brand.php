@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Mediabrand Brand Wordpress
-Description: Personalizzare e brandizzare le principali sezioni di Wordpress (login, dashboard logo e menu, footer, ecc) by Mediabrand (Versioni >= 3.0)
+Description: Personalizzare e brandizzare le principali sezioni di Wordpress (login, dashboard logo e menu, footer, ecc) by Mediabrand (Versioni Wordpress >= 3.0)
 Version: 1.0
 Author: Patrizia Petrera
 Author URI: http://www.mediabrand.it
